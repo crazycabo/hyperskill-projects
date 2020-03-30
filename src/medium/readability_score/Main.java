@@ -1,11 +1,9 @@
+package medium.readability_score;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-/**
- * Created by Brian Smith on 3/29/20.
- * Description:
- */
 public class Main {
 
     private static int wordCount;
